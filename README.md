@@ -9,3 +9,11 @@ ODD EVEN (1).c
 stack operations (1).c
 fibonacci without recurssion (2).c
 fibonacci with recursion (3).c
+avl (1).c
+hashing using probing.c
+heap sort 1.cpp
+insertion sort.c
+merge sort.c
+queue operations.c
+stack applications.c
+tree transversal (1).c
